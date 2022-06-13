@@ -4,10 +4,10 @@ This task is to provide a help to  John from STA IT services to create a linear 
 
 The data files are provided in the Task 2 GitHub Folder
 
-1) Data_file.xlsx                 - (dataset that used to train  the linear regression model)
+1) [Data_file.xlsx ](https://github.com/mhkp/-STEP-i-Machine-Learning-Internship/blob/main/Task%202/CTC_salary%20prediction/Data_file.xlsx)                - (dataset that used to train  the linear regression model)
 
-2) Test_data_file.xlsx            - (dataset that used to test the efficiency of the model)
+2) [Test_data_file.xlsx ](https://github.com/mhkp/-STEP-i-Machine-Learning-Internship/blob/main/Task%202/CTC_salary%20prediction/Test_data_file.xlsx)           - (dataset that used to test the efficiency of the model)
 
-3) Test_Results.xlsx              - (dataset that I used to test and store my model predictions)
+3) [Test_Results.xlsx](https://github.com/mhkp/-STEP-i-Machine-Learning-Internship/blob/main/Task%202/CTC_salary%20prediction/Test_result.xlsx)              - (dataset that I used to test and store my model predictions)
 
-4) CTC_salary prediction.ipynb    - (Python code)
+4) [CTC_salary prediction.ipynb](https://github.com/mhkp/-STEP-i-Machine-Learning-Internship/blob/main/Task%202/CTC_salary%20prediction/CTC_salary%20prediction.ipynb)    - (Python code)
